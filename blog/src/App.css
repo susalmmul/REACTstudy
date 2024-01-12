@@ -8,6 +8,8 @@ div {box-sizing: border-box;}
 
 .black-nav {width: 100%; padding: 10px 20px; background-color: black; color: white; text-align: left;}
 
+.modal {margin-top: 20px; padding: 20px; background: #eee; text-align: left;}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
